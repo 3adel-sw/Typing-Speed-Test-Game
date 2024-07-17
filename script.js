@@ -2,6 +2,8 @@
 
 const words = [
   "Adel",
+  "Hassan",
+"Hor",
   "Ahmed",
   "Ali",
   "Amr",
@@ -34,7 +36,7 @@ const lvls = {
 };
 
 // Default Level
-let defaultLevelName = "Normal"; // Change Level From Here
+let defaultLevelName = "Easy"; // Change Level From Here
 let defaultLevelSeconds = lvls[defaultLevelName]; // Change Level From Here
 
 // Catch Selectors
