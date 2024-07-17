@@ -154,16 +154,17 @@ margin: 5px;
     
   }
 }
-/* @media (max-width: 500px) {
+ @media (max-width: 500px) {
   .control {
     font-size: 10px;
-    margin: 0;
-    padding: 0;
-    transform: translate(200%, 50%);
-    justify-content: center;
-    align-items: center;
+        /* margin: 0; */
+        /* padding: 0; */
+        /* transform: translate(200%, 50%); */
+        justify-content: center;
+        align-items: center;
+
   }
-} */
+} 
 
 @media (max-width: 500px) {
   .upcoming-words {
