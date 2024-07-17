@@ -154,7 +154,7 @@ margin: 5px;
     
   }
 }
-@media (max-width: 500px) {
+/* @media (max-width: 500px) {
   .control {
     font-size: 10px;
     margin: 0;
@@ -163,7 +163,7 @@ margin: 5px;
     justify-content: center;
     align-items: center;
   }
-}
+} */
 
 @media (max-width: 500px) {
   .upcoming-words {
