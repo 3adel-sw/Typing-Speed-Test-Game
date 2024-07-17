@@ -145,6 +145,7 @@ body {
 @media (max-width: 500px) {
   .control {
     flex-direction: column;
+            margin: 5px;
   }
 }
 
